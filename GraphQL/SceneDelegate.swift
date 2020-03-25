@@ -3,7 +3,6 @@
 //  GraphQL
 //
 //  Created by josh on 2020/03/10.
-//  Copyright © 2020 GMO Pepabo. All rights reserved.
 //
 
 import UIKit
